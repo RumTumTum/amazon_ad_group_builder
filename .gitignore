@@ -3,6 +3,9 @@
 advertising_files/
 output/
 
+# MacOS icons
+Icon
+
 
 
 # Byte-compiled / optimized / DLL files
@@ -39,6 +42,7 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+
 
 # Installer logs
 pip-log.txt
